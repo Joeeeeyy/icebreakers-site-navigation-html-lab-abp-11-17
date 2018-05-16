@@ -31,17 +31,17 @@ Icebreakers Site Navigation
     within <body>
       contains a <header> tag to enclose the site header
       within <header>
-        contains a <nav> tag to enclose the site navigation 
+        contains a <nav> tag to enclose the site navigation
         within <nav>
-          contains a <ul> tag to enclose the site navigation 
+          contains a <ul> tag to enclose the site navigation
           within <ul>
-            contains a pair of <li> tags for linking to other pages 
+            contains a pair of <li> tags for linking to other pages
             within the <li> tags
-              each contains an <a> tag to link to another page 
+              each contains an <a> tag to link to another page
       within <header>
-        contains an <h3> tag to enclose the site's title 
+        contains an <h3> tag to enclose the site's title
         within <h3>
-          contains an <a> tag to link back to the site's homepage 
+          contains an <a> tag to link back to the site's homepage
   w3c validation
     is a valid w3c document
 ```
